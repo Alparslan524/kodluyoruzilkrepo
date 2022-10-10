@@ -24,3 +24,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ***
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+***
+[GitHub](https://github.com/Alparslan524?tab=repositories)
+
+[Linkedin](https://www.linkedin.com/in/alparslan-aydoğan-6038771bb/)
